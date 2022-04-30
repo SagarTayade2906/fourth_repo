@@ -1,0 +1,4 @@
+a=int(input("the first number: "))
+b=int(input("the second number: "))
+avg=("the avg of first and second number is:",(a+b)/2)
+print(avg)
